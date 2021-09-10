@@ -1,0 +1,19 @@
+{
+  "name": "simple_rest",
+  "version": "1.0.0",
+  "description": "testing node and react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-047/Simple_Rest.git"
+  },
+  "author": "Rohith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-047/Simple_Rest/issues"
+  },
+  "homepage": "https://github.com/R-047/Simple_Rest#readme"
+}
